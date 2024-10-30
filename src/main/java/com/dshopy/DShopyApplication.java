@@ -9,6 +9,7 @@ public class DShopyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DShopyApplication.class, args);
 		System.out.println("Application Started");
+		
 	}
 
 }

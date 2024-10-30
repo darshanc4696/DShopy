@@ -19,4 +19,9 @@ public class ProductService {
 		return pr.findAll();
 	}
 
+	public Product getProduct(int id) {
+		
+		return pr.findById(id).orElse(new Product());
+	}
+
 }
