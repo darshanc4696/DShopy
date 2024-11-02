@@ -1,2 +1,2 @@
 # DShopy
-An E-Commerce WebApp
+An e-commerce WebApp
